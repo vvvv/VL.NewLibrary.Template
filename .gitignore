@@ -7,5 +7,5 @@ obj/
 # Dynamic plugins .dll
 bin/
 
-/.vl/
+.vl/
 /lib/
