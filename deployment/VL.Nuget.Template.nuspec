@@ -1,15 +1,22 @@
 <?xml version="1.0"?>
+
+<!-- For more info see: -->
+<!-- https://thegraybook.vvvv.org/reference/extending/publishing.html -->
+
 <package xmlns="http://schemas.microsoft.com/packaging/2011/10/nuspec.xsd">
   <metadata>
     <id>VL.Nuget.Template</id>
-    <version>1.0.0</version>
+    <!-- For more about versions see: https://thegraybook.vvvv.org/reference/extending/publishing.html#version -->
+    <version>0.0.1-alpha</version>
     <title>VL.Nuget.Template</title>
-    <authors>domj</authors>
-    <owners>domj</owners>
-    <projectUrl>https://github.com/domjancik/VL.Nuget.Template</projectUrl>
+    <!-- Provide authors, owners and projectUrl --> 
+    <authors></authors>
+    <owners></owners>
+    <projectUrl></projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <summary>Clean nuget template (VL only)</summary>
-    <description>Clean nuget template (VL only)</description>
+    <!-- Provide summary and description -->
+    <summary></summary>
+    <description></description>
     <tags>nuget</tags>
 	<license type="expression">MIT</license>
 	<icon>icon\nugeticon.png</icon>
