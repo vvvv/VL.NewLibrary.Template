@@ -27,8 +27,8 @@ jobs:
     - name: Publish VL Nuget
       uses: vvvv/PublishVLNuget@1.0.29
       with:
-        csproj: src\VL.Nuget.Template.csproj
-        nuspec: deployment\VL.Nuget.Template.nuspec
+        csproj: src\VL.NewLibrary.Template.csproj
+        nuspec: deployment\VL.NewLibrary.Template.nuspec
 
         # Fill the Icon file
         icon-src: https://foo.bar/nugeticon.png

@@ -5,10 +5,10 @@
 
 <package xmlns="http://schemas.microsoft.com/packaging/2011/10/nuspec.xsd">
   <metadata>
-    <id>VL.Nuget.Template</id>
+    <id>VL.NewLibrary.Template</id>
     <!-- For more about versions see: https://thegraybook.vvvv.org/reference/extending/publishing.html#version -->
     <version>0.0.1-alpha</version>
-    <title>VL.Nuget.Template</title>
+    <title>VL.NewLibrary.Template</title>
     <!-- Provide authors, owners and projectUrl --> 
     <authors></authors>
     <owners></owners>
