@@ -19,13 +19,13 @@ jobs:
       uses: actions/checkout@master
     
     - name: Setup MSBuild.exe
-      uses: microsoft/setup-msbuild@v1.0.0
+      uses: microsoft/setup-msbuild@v1.0.2
 
     - name: Setup Nuget.exe
       uses: nuget/setup-nuget@v1
 
     - name: Publish VL Nuget
-      uses: vvvv/PublishVLNuget@1.0.29
+      uses: vvvv/PublishVLNuget@1.0.42
       with:
         csproj: src\VL.NewLibrary.Template.csproj
         nuspec: deployment\VL.NewLibrary.Template.nuspec
