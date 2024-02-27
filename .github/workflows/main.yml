@@ -25,7 +25,7 @@ jobs:
       uses: nuget/setup-nuget@v1
 
     - name: Publish VL Nuget
-      uses: vvvv/PublishVLNuget@1.0.42
+      uses: vvvv/PublishVLNuget@1.0.43
       with:
         csproj: src\VL.NewLibrary.Template.csproj
         nuspec: deployment\VL.NewLibrary.Template.nuspec
