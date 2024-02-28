@@ -19,5 +19,5 @@ For use with vvvv, the visual live-programming environment for .NET: http://visu
 Links to libraries this is based on
 
 ## Sponsoring
-Development of this library was partially sponsored by:
-- 
+Development of this library was partially sponsored by:  
+* 
