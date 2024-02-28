@@ -1,12 +1,23 @@
 # VL.NewLibrary.Template
-Lorem Ipsum.
+What this library is used for
 
-Try it with vvvv, the visual live-programming environment for .NET  
-Download: http://visualprogramming.net
+For use with vvvv, the visual live-programming environment for .NET: http://visualprogramming.net
 
-## Using the library
-In order to use this library with VL you have to install the nuget that is available via nuget.org. For information on how to use nugets with VL, see [Managing Nugets](https://thegraybook.vvvv.org/reference/hde/managing-nugets.html) in the VL documentation. As described there you go to the commandline and then type:
+## Getting started
+- Install as [described here](https://thegraybook.vvvv.org/reference/hde/managing-nugets.html) via commandline:
 
-    nuget install VL.NewLibrary.Template -pre
+    `nuget install VL.NewLibrary.Template -pre`
 
-Demos are available via the Help Browser!
+- Usage examples and more information are included in the pack and can be found via the [Help Browser](https://thegraybook.vvvv.org/reference/hde/findinghelp.html)
+
+## Contributing
+- Report issues on [github](https://github.com/vvvv/VL.MediaPipe/issues) or on [the vvvv forum](https://discourse.vvvv.org/c/vvvv-gamma/28)
+- For custom development requests, please [get in touch](mailto:devvvvs@vvvv.org)
+- When making a pull-request, please make sure to read the general [guidlines on contributing to vvvv libraries](https://thegraybook.vvvv.org/reference/extending/contributing.html)
+
+## Credits
+Links to libraries this is based on
+
+## Sponsoring
+Development of this library was partially sponsored by:
+- 
