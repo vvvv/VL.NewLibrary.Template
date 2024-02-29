@@ -11,11 +11,9 @@
     <title>VL.NewLibrary.Template</title>
     <!-- Provide authors, owners and projectUrl --> 
     <authors></authors>
-    <owners></owners>
     <projectUrl></projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <!-- Provide summary and description -->
-    <summary></summary>
     <description></description>
     <tags>nuget</tags>
     <license type="expression">LGPL-3.0-only</license>
