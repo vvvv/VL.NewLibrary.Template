@@ -13,6 +13,7 @@
     <!-- Provide authors and projectUrl --> 
     <authors></authors>
     <projectUrl></projectUrl>
+    <repository type="git" url="https://github.com/vvvv/VL.NewLibrary.Template.git" />
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <!-- Provide description and tags-->
     <description></description>
