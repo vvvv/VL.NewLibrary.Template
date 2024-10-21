@@ -5,7 +5,7 @@
 - [ ] In case this is for a device/protocol, links to the device/protocol-specs
 - [ ] Required dependencies/drivers to download and install in the getting started section below
 - [ ] If available, links to documentation (other than helppatches), tutorial videos, blog posts, ...
-- [ ] Note that you can also include screenshots!
+- [ ] Note that you can also [include images](https://devblogs.microsoft.com/nuget/add-a-readme-to-your-nuget-package/#markdown-and-image-support)!
 - [ ] Mention any limitations
 
 For use with vvvv, the visual live-programming environment for .NET: http://visualprogramming.net
